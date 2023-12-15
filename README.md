@@ -1,7 +1,7 @@
 ## Instalation/Adopting of your new Device in Home Assistant
 * Use this if you want to use the device as is with the stock firmware
 
-  1. Plug the device into power
+* 1. Plug the device into power
   2. On your phone or pc, connect to the device via wifi with password "esphome1234" the device name will be followed by the mac address, for example "sonoff-r2-5c1809"
   3. In your browser go to 192.168.4.1
   4. Select your wifi network and input your password
