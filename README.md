@@ -8,7 +8,7 @@
 5. Then in Home Assistant go to "Settings" then "Devices&services" the device should appear there after a while, then click "Configure" on your device
 
 ## Instalation/Adopting of your new Device in ESPHome then Home Assistant
-Use this if you want to modify the code on the device and maybe add custom sensors, or settings
+* Use this if you want to modify the code on the device and maybe add custom sensors, or settings
 
 1. Plug the device into power
 2. On your phone or pc, connect to the device via wifi with password "esphome1234" the device name will be followed by the mac address, for example "sonoff-r2-5c1809"
