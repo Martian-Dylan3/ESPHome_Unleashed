@@ -17,7 +17,7 @@ api:
 ota:
   
 dashboard_import:
-  package_import_url: github://Martian-Dylan3/ESPHome_Unleashed/blob/main/Sonoff_R2_ESPHome.yaml@main
+  package_import_url: github://Martian-Dylan3/ESPHome_Unleashed/Sonoff_R2_ESPHome.yaml@main
   import_full_config: true
 
 wifi:
