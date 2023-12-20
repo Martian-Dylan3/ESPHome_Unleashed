@@ -25,7 +25,7 @@ ota:
   
 dashboard_import:
   package_import_url: github://Martian-Dylan3/ESPHome_Unleashed/Devices/Sonoff_R2.yaml@main
-  import_full_config: false
+  import_full_config: true
 
 wifi:
 
