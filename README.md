@@ -1,3 +1,6 @@
+# ESPHome Unleashed
+Welcome to ESPHome Unleashed – a custom firmware repository for ESPHome devices that unlocks a world of possibilities for your smart home.
+
 ## Instalation/Adopting of your new Device in Home Assistant
 * **Use this if you want to use the device as is with the stock firmware**
 
